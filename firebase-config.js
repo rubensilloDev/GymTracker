@@ -2,7 +2,7 @@
 
 const firebaseConfig = {
   apiKey:            "AIzaSyA8pMAVklqE2cUMfk92WKDFKSfOdhdOJl0",
-  authDomain:        "rubensillodev.github.io",
+  authDomain:        "gymtracker-2026r.firebaseapp.com",
   projectId:         "gymtracker-2026r",
   storageBucket:     "gymtracker-2026r.firebasestorage.app",
   messagingSenderId: "267443380401",
