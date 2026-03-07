@@ -1,16 +1,8 @@
-/**
- * ============================================================
- * js/firebase-config.js — Inicialización de Firebase
- * ============================================================
- * Expone globalmente: auth, db
- * ============================================================
- */
-
 'use strict';
 
 const firebaseConfig = {
   apiKey:            "AIzaSyA8pMAVklqE2cUMfk92WKDFKSfOdhdOJl0",
-  authDomain:        "gymtracker-2026r.firebaseapp.com",
+  authDomain:        "rubensillodev.github.io",
   projectId:         "gymtracker-2026r",
   storageBucket:     "gymtracker-2026r.firebasestorage.app",
   messagingSenderId: "267443380401",
